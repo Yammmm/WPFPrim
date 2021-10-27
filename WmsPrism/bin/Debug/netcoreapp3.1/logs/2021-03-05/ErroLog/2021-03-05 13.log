@@ -1,0 +1,6 @@
+2021-03-05 13:41:00.1782 System.InvalidOperationException: The connection does not support MultipleActiveResultSets.
+   at SqlSugar.AdoProvider.GetDataSetAll(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.GetDataSetAllAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.GetDataTableAsync(String sql, SugarParameter[] parameters)
+   at WmsPrism.Services.StoreBillIServices.GetAllDataByBill_no(Int32 pageIndex, Int32 pageSize, String bill_no) in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism.Services\StoreBillIServices.cs:line 34
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Query() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 134

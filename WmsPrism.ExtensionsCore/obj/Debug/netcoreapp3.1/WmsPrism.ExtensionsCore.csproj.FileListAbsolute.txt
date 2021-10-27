@@ -1,0 +1,12 @@
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.ExtensionsCore.csprojAssemblyReference.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.ExtensionsCore.AssemblyInfoInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.ExtensionsCore.AssemblyInfo.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.ExtensionsCore.csproj.CoreCompileInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.ExtensionsCore.csproj.CopyComplete
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.deps.json
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\bin\Debug\netcoreapp3.1\WmsPrism.Model.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\bin\Debug\netcoreapp3.1\WmsPrism.Model.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.Extensions.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\obj\Debug\netcoreapp3.1\WmsPrism.Extensions.pdb

@@ -1,0 +1,35 @@
+2021-04-08 10:25:13.0999 System.Data.SqlClient.SqlException (0x80131904): “=”附近有语法错误。
+   at SqlSugar.AdoProvider.GetDataReaderAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.QueryableProvider`1.GetDataAsync[TResult](KeyValuePair`2 sqlObj)
+   at SqlSugar.QueryableProvider`1._ToListAsync[TResult]()
+   at WmsPrism.Services.StoreBillIServices.GetAllDataByBill_no(Int32 pageIndex, Int32 pageSize, String bill_no) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ServicesCore\StoreBillIServices.cs:line 45
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Query() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 140
+ClientConnectionId:4462a71c-aef6-49b0-8a13-5204c9b7ca71
+Error Number:102,State:1,Class:15
+2021-04-08 10:25:32.8266 System.NullReferenceException: Object reference not set to an instance of an object.
+   at WmsPrism.Services.StoreBillIServices.GetAllDataByBill_no(Int32 pageIndex, Int32 pageSize, String bill_no)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Query() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 140
+2021-04-08 10:26:14.1638 System.Data.SqlClient.SqlException (0x80131904): “=”附近有语法错误。
+   at SqlSugar.AdoProvider.GetDataReaderAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.QueryableProvider`1.GetDataAsync[TResult](KeyValuePair`2 sqlObj)
+   at SqlSugar.QueryableProvider`1._ToListAsync[TResult]()
+   at WmsPrism.Services.StoreBillIServices.GetAllDataByBill_no(Int32 pageIndex, Int32 pageSize, String bill_no)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Query() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 140
+ClientConnectionId:4462a71c-aef6-49b0-8a13-5204c9b7ca71
+Error Number:102,State:1,Class:15
+2021-04-08 10:53:01.6327 System.Data.SqlClient.SqlException (0x80131904): 列名 'Waybill_id' 无效。
+   at SqlSugar.AdoProvider.GetDataSetAll(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.GetDataTable(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.GetDataTable(String sql, List`1 parameters)
+   at WmsPrism.Services.StoreBillIServices.<>c__DisplayClass1_0.<GetWayBillListByBill_no>b__0() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ServicesCore\StoreBillIServices.cs:line 112
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at WmsPrism.Services.StoreBillIServices.GetWayBillListByBill_no(String Bill_no, String positionid) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ServicesCore\StoreBillIServices.cs:line 109
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 205
+ClientConnectionId:7981285a-89a5-4695-b853-97b75e568991
+Error Number:207,State:1,Class:16

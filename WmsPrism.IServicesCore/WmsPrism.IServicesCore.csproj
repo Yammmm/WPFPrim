@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WmsPrism.IServices</RootNamespace>
+    <AssemblyName>WmsPrism.IServices</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WmsPrism.ExtensionsCore\WmsPrism.ExtensionsCore.csproj" />
+    <ProjectReference Include="..\WmsPrism.ModelCore\WmsPrism.ModelCore.csproj" />
+  </ItemGroup>
+
+</Project>

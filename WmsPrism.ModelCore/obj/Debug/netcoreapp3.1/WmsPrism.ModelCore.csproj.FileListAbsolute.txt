@@ -1,0 +1,8 @@
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\obj\Debug\netcoreapp3.1\WmsPrism.ModelCore.AssemblyInfoInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\obj\Debug\netcoreapp3.1\WmsPrism.ModelCore.AssemblyInfo.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\obj\Debug\netcoreapp3.1\WmsPrism.ModelCore.csproj.CoreCompileInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\bin\Debug\netcoreapp3.1\WmsPrism.Model.deps.json
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\bin\Debug\netcoreapp3.1\WmsPrism.Model.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\bin\Debug\netcoreapp3.1\WmsPrism.Model.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\obj\Debug\netcoreapp3.1\WmsPrism.Model.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ModelCore\obj\Debug\netcoreapp3.1\WmsPrism.Model.pdb

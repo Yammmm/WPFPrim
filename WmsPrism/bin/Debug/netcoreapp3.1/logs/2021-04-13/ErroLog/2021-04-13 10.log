@@ -1,0 +1,8 @@
+2021-04-13 10:28:43.9566 System.Data.SqlClient.SqlException (0x80131904): 将截断字符串或二进制数据。
+语句已终止。
+   at SqlSugar.AdoProvider.ExecuteCommandAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.UpdateableProvider`1.ExecuteCommandAsync()
+   at WmsPrism.Services.BuildBarCodeServices.UpdateWMSbillbarcodes(List`1 barcodes) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ServicesCore\BuildBarCodeServices.cs:line 168
+   at WmsPrism.Services.BuildBarCodeServices.AddBarCodeInfo(Int32 bill_id, Int32 num, Int32 userid) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ServicesCore\BuildBarCodeServices.cs:line 100
+ClientConnectionId:51037e34-43a1-4f00-829f-cadcc671d5fa
+Error Number:8152,State:2,Class:16

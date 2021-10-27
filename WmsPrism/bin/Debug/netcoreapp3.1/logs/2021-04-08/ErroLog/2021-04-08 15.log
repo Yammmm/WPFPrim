@@ -1,0 +1,5 @@
+2021-04-08 15:14:40.6259 System.ArgumentException: Delegate to an instance method cannot have null 'this'.
+   at System.MulticastDelegate.ThrowNullThisInDelegateToInstance()
+   at System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   at WmsPrism.Services.BillServices.GetBillList(String Bill_no)
+   at WmsPrism.ViewModels.BillCheck.BillSearchViewModel.Query() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\BillCheck\BillSearchViewModel.cs:line 71

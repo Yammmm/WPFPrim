@@ -1,0 +1,86 @@
+﻿<UserControl xmlns:UntiyView="clr-namespace:WmsPrism.UntiyView"  x:Class="WmsPrism.Views.StoreBillIofLading.StoreBillIofLadingList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WmsPrism.Views.StoreBillIofLading"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <UserControl.Resources>
+        <Style x:Key="CenterAlignmentStyle" TargetType="TextBlock">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        
+    </UserControl.Resources>
+    <Border  MinWidth="850"  Background="White"  CornerRadius="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+
+            <Grid Grid.Row="1" Margin="0 0 0 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="95"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="45"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0"  TextAlignment="Center" VerticalAlignment="Center" FontSize="26" FontWeight="Bold" Text="在仓提单列表"></TextBlock>
+
+                <WrapPanel Grid.Row="1"  Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="提单号：" FontSize="15" VerticalAlignment="Center" Margin="25 0 0 0"/>
+                    <TextBox Text="{Binding Search}" Width="200" Height="25" FontSize="15" Margin="10 0 0 0" />
+                    <Button Content="查找" Command="{Binding QueryCommand}"  Width="70" Height="25" Margin="10 0 0 0"/>
+                    <Button Content="重置" Command="{Binding ResetCommand}"  Width="70" Height="25" Margin="10 0 0 0"/>
+                    <TextBlock Text="{Binding Msg}" Margin="45 10 0 0"  Foreground="#B22222" HorizontalAlignment="Center"></TextBlock>
+
+                </WrapPanel>
+                <StackPanel Grid.Row="2" HorizontalAlignment="Left" Width="1000">
+                    <DataGrid x:Name="DataGrid1" MinHeight="500"
+                          Margin="15"
+                          AutoGenerateColumns="False" GridLinesVisibility="Vertical"
+                  CanUserAddRows="False" ItemsSource="{Binding StoreBillModelList}"  IsReadOnly="True"   CanUserSortColumns="False"
+                         >
+                    <!--ElementStyle="{StaticResource ContentStyle}"-->
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="提单号"     ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="80"  Binding="{Binding Bill_no}"/>
+                        <DataGridTextColumn Header="提货日期"   ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="140" Binding="{Binding BillDateTime}"/>
+                        <DataGridTextColumn Header="总包裹数"   ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="85" Binding="{Binding Total_num}"/>
+                        <DataGridTextColumn Header="在仓数"     ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="75"  Binding="{Binding inStoreCount}"/>
+                        <DataGridTextColumn Header="库位"       ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="80" Binding="{Binding PostionInfoStr}"/>
+                        <DataGridTextColumn Header="客户"       ElementStyle="{StaticResource CenterAlignmentStyle}"  IsReadOnly="True" Width="70" Binding="{Binding Name}"/>
+                        <DataGridTextColumn Header="最近入仓时间"  ElementStyle="{StaticResource CenterAlignmentStyle}" IsReadOnly="True" Width="160" Binding="{Binding inTimeDateTime}"/>
+                        <DataGridTemplateColumn Header="功能" Width="180">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button Content="详细" Width="60" Height="25" Background="White" Foreground="Black" Margin="5 0 0 0"
+                                         CommandParameter="{Binding}"                             
+                                         Command="{Binding DataContext.StroeBillLadingDetails,RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGrid}}}"
+                                        ></Button>
+
+                                        <Button Content="出仓" Width="60" Height="25" Background="Orange" Foreground="Black" Margin="5 0 0 0"
+                                         CommandParameter="{Binding}"
+                                         Command="{Binding DataContext.OutStoreCommand,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType=DataGrid}}"
+                                        ></Button>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>  
+                 <UntiyView:DataPager />
+                </StackPanel>
+                <!--<Grid Grid.Row="3" Margin="10 0 0 0">-->
+                  
+                <!--</Grid>-->
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

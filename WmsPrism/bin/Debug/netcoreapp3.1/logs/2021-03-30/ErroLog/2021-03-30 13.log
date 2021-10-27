@@ -1,0 +1,13 @@
+2021-03-30 13:54:45.5147 入库错误：包裹表,没有查到对应提单数据。请确认信息。
+2021-03-30 13:56:02.9390 入库错误：发生错误：System.Data.SqlClient.SqlException (0x80131904): 列名 'Waybill_id' 无效。
+   at SqlSugar.AdoProvider.ExecuteCommand(String sql, SugarParameter[] parameters)
+   at SqlSugar.InsertableProvider`1.ExecuteCommand()
+   at WmsPrism.Services.PositionServices.CommitBulkStored(String billNo, Int32 positionId, String positionTitle, Int32 userId) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.Services\PositionServices.cs:line 114
+ClientConnectionId:901af32c-d4ce-412b-ab30-b2de5e15e787
+Error Number:207,State:1,Class:16,请联系管理员。
+2021-03-30 13:59:53.1411 入库错误：发生错误：System.Data.SqlClient.SqlException (0x80131904): 列名 'Waybill_id' 无效。
+   at SqlSugar.AdoProvider.ExecuteCommand(String sql, SugarParameter[] parameters)
+   at SqlSugar.InsertableProvider`1.ExecuteCommand()
+   at WmsPrism.Services.PositionServices.CommitBulkStored(String billNo, Int32 positionId, String positionTitle, Int32 userId) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.Services\PositionServices.cs:line 114
+ClientConnectionId:47cfd90f-a30e-49d7-8703-102f5078bbfe
+Error Number:207,State:1,Class:16,请联系管理员。

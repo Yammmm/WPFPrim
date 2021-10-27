@@ -1,0 +1,169 @@
+﻿<UserControl x:Class="WmsPrism.Views.BingCargo.BingWeight"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WmsPrism.Views.BingCargo"
+             
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors">
+
+    <Border  Background="White"  CornerRadius="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1" Margin="15 0 0 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0"  TextAlignment="Center" VerticalAlignment="Center" FontSize="26" FontWeight="Bold" Text="采集重量"></TextBlock>
+
+                <StackPanel Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5">
+                    <ComboBox Width="250" Height="30" 
+                                  ItemsSource="{Binding SelGroupList}"
+                                  SelectedValuePath="Key" DisplayMemberPath="Value"
+                                  SelectedValue="{Binding Group,                     
+                                  UpdateSourceTrigger=PropertyChanged}"                       
+                                  Style="{StaticResource MaterialDesignComboBox}"
+                                  materialDesign:HintAssist.Hint="提单号码"
+                                  FontSize="15"  x:Name="BillComBox">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="SelectionChanged">
+                                <i:InvokeCommandAction Command="{Binding Path=ComboxChangedCommand}" 
+                                           CommandParameter="{Binding ElementName=BillComBox}"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </ComboBox>
+
+                    <TextBox  Width="250"
+                          materialDesign:HintAssist.Hint="采集重量(Kg)" 
+                          FontSize="15" Name="WeighTxt"  
+                          Text="{Binding Weigh}"
+                          Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    >
+                        <TextBox.InputBindings>
+                            <KeyBinding Key="Enter" Command="{Binding Path= BarCodeEnterCommd}"/>
+                            <!--<KeyBinding Key="Tab" Command="{Binding TabKeyCommand}"/>-->
+                        </TextBox.InputBindings>
+
+                    </TextBox>
+
+                    <TextBox  Width="250" 
+                          materialDesign:HintAssist.Hint="标签条码" 
+                          FontSize="15" Name="BarCodeTxt"  
+                          PreviewKeyDown="BarCodeTxt_PreviewKeyDown"
+                          Text="{Binding BarCode}"
+                           Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    >
+                        <TextBox.InputBindings>
+                            <!--<KeyBinding Key="Enter" Command="{Binding Path= SaveBtn}"/>-->
+                            <!--<KeyBinding Key="Tab" Command="{Binding TabKeyCommand}"/>-->
+                        </TextBox.InputBindings>
+
+                    </TextBox>
+
+                    <TextBlock Text="{Binding Msg}" Height="30"  Margin="0 10 0 0"  Foreground="#B22222" VerticalAlignment="Center"  HorizontalAlignment="Center"></TextBlock>
+
+                    <StackPanel Width="350" Orientation="Horizontal" VerticalAlignment="Center">
+                        <Button Content="添加" Command="{Binding AddRichTxtCommd}" IsEnabled="{Binding IsCancel}"  Margin="75 0 0 0"  Width="90" Height="30" Cursor="Hand" />
+                        <Button Content="删除" Command="{Binding DelRichTxtCommd}" IsEnabled="{Binding IsCancel}"  Margin="15 0 0 0"  Width="90" Height="30" Cursor="Hand" />
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" HorizontalAlignment="Left" Orientation="Vertical">
+                    <RichTextBox 
+                    BorderThickness="1 1 1 1"
+                    IsReadOnly="True"
+                    Name="richTextBox" 
+                    HorizontalAlignment="Left" 
+                    Height="450"
+                    VerticalAlignment="Center" Width="650" Margin="379,0,0,0" >
+
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run  FontSize="14" Text="{Binding RichTxt }"></Run>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                    <Button Content="保存" HorizontalAlignment="Right"  Command="{Binding SaveBtn}" IsEnabled="{Binding IsCancel}"  Margin="10 15 10 0"  Width="90" Height="30" Cursor="Hand" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>
+
+
+
+<!--原页面(单个)-->
+<!--<Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition />
+    </Grid.RowDefinitions>
+    <Grid Grid.Row="1" Margin="15 0 0 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0"  TextAlignment="Center" VerticalAlignment="Center" FontSize="26" FontWeight="Bold" Text="采集重量"></TextBlock>
+
+        <ComboBox Width="450" ItemsSource="{Binding SelGroupList}"
+                                  SelectedValuePath="Key" DisplayMemberPath="Value"
+                                  SelectedValue="{Binding Group,                     
+                                  UpdateSourceTrigger=PropertyChanged}"                       
+                                  Style="{StaticResource MaterialDesignComboBox}"
+                                  materialDesign:HintAssist.Hint="提单号码"
+                                  FontSize="15" Grid.Row="2" x:Name="BillComBox">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding Path=ComboxChangedCommand}" 
+                                           CommandParameter="{Binding ElementName=BillComBox}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ComboBox>
+
+        <TextBox  Width="450" Grid.Row="3"
+                          materialDesign:HintAssist.Hint="采集重量(Kg)" 
+                          FontSize="15" Name="WeighTxt"  
+                          Text="{Binding Weigh}"
+                           Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    >
+            <TextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding Path= BarCodeEnterCommd}"/>
+                --><!--<KeyBinding Key="Tab" Command="{Binding TabKeyCommand}"/>--><!--
+            </TextBox.InputBindings>
+
+        </TextBox>
+
+        <TextBox  Width="450" Grid.Row="4"
+                          materialDesign:HintAssist.Hint="标签条码" 
+                          FontSize="15" Name="BarCodeTxt"  
+                          PreviewKeyDown="BarCodeTxt_PreviewKeyDown"
+                          Text="{Binding BarCode}"
+                           Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    >
+            <TextBox.InputBindings>
+                --><!--<KeyBinding Key="Enter" Command="{Binding Path= SaveBtn}"/>-->
+                <!--<KeyBinding Key="Tab" Command="{Binding TabKeyCommand}"/>--><!--
+            </TextBox.InputBindings>
+
+        </TextBox>
+
+        <TextBlock Text="{Binding Msg}" Grid.Row="5" Margin="0 0 0 0"  Foreground="#B22222" VerticalAlignment="Center"  HorizontalAlignment="Center"></TextBlock>
+
+        <StackPanel Grid.Row="6" Width="350" Orientation="Horizontal" VerticalAlignment="Center">
+            <Button Content="保存" Command="{Binding SaveBtn}" IsEnabled="{Binding IsCancel}"  Margin="130 0 0 0"  Width="90" Height="30" Cursor="Hand" />
+        </StackPanel>
+
+    </Grid>
+</Grid>-->

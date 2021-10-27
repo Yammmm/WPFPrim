@@ -1,0 +1,8 @@
+2021-03-31 17:04:40.5131 System.Data.SqlClient.SqlException (0x80131904): 列名 'Waybill_id' 无效。
+   at SqlSugar.AdoProvider.GetDataReaderAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.QueryableProvider`1.GetDataAsync[TResult](KeyValuePair`2 sqlObj)
+   at SqlSugar.QueryableProvider`1._ToListAsync[TResult]()
+   at WmsPrism.Services.StoreBillIServices.GetAllDataByBill_no(Int32 pageIndex, Int32 pageSize, String bill_no) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.Services\StoreBillIServices.cs:line 46
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Query() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 140
+ClientConnectionId:8ff76ff9-4eee-4b06-938e-46ffc0396705
+Error Number:207,State:1,Class:16

@@ -1,0 +1,2 @@
+2021-04-15 16:04:54.8576 System.NullReferenceException: Object reference not set to an instance of an object.
+   at WmsPrism.ViewModels.BuildBarCode.BuildLabelBarCodeViewModel.PrintPdf()

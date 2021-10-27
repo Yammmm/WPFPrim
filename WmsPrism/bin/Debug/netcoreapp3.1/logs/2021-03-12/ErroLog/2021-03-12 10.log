@@ -1,0 +1,36 @@
+2021-03-12 10:57:29.4230 System.Data.SqlClient.SqlException (0x80131904): 列名 'Arrive_time' 无效。
+列名 'Arrive_time' 无效。
+   at SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T,T2,T3,T4,T5,T6,T7](String sql, Object parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T](String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T](String sql, Object parameters)
+   at WmsPrism.Services.BillArriveServices.<GetBillNo>b__3_0() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism.Services\BillArriveServices.cs:line 62
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at WmsPrism.Services.BillArriveServices.GetBillNo() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism.Services\BillArriveServices.cs:line 60
+   at WmsPrism.ViewModels.BillArrive.BillArriveHistoryViewModel.GetBillComboxData() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\ViewModels\BillArrive\BillArriveHistoryViewModel.cs:line 139
+ClientConnectionId:a05c913d-8252-4fb7-97ce-9b667088aa52
+Error Number:207,State:1,Class:16
+2021-03-12 10:57:46.3172 System.Data.SqlClient.SqlException (0x80131904): 列名 'Arrive_time' 无效。
+列名 'Arrive_time' 无效。
+   at SqlSugar.AdoProvider.GetDataReader(String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T,T2,T3,T4,T5,T6,T7](String sql, Object parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T](String sql, SugarParameter[] parameters)
+   at SqlSugar.AdoProvider.SqlQuery[T](String sql, Object parameters)
+   at WmsPrism.Services.BillArriveServices.<GetBillNo>b__3_0() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism.Services\BillArriveServices.cs:line 62
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at WmsPrism.Services.BillArriveServices.GetBillNo() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism.Services\BillArriveServices.cs:line 60
+   at WmsPrism.ViewModels.BillArrive.BillArriveHistoryViewModel.GetBillComboxData() in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\ViewModels\BillArrive\BillArriveHistoryViewModel.cs:line 139
+ClientConnectionId:a05c913d-8252-4fb7-97ce-9b667088aa52
+Error Number:207,State:1,Class:16

@@ -1,0 +1,8 @@
+2021-03-04 17:40:52.3856 System.NullReferenceException: Object reference not set to an instance of an object.
+   at WmsPrism.ViewModels.StoreBillIofLading.BillofLadingDetailsViewModel.OnDialogOpened(IDialogParameters parameters) in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\BillofLadingDetailsViewModel.cs:line 59
+   at Prism.Services.Dialogs.DialogService.<>c__DisplayClass9_0.<ConfigureDialogWindowContent>b__0(IDialogAware d)
+   at Prism.Common.MvvmHelpers.ViewAndViewModelAction[T](Object view, Action`1 action)
+   at Prism.Services.Dialogs.DialogService.ConfigureDialogWindowContent(String dialogName, IDialogWindow window, IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.ShowDialogInternal(String name, IDialogParameters parameters, Action`1 callback, Boolean isModal, String windowName)
+   at Prism.Services.Dialogs.DialogService.ShowDialog(String name, IDialogParameters parameters, Action`1 callback)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView) in C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 125

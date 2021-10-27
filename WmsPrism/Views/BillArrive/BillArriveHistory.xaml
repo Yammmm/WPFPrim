@@ -1,0 +1,161 @@
+﻿<UserControl x:Class="WmsPrism.Views.BillArrive.BillArriveHistory"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:local="clr-namespace:WmsPrism.Views.BillArrive"   
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"      
+             
+             mc:Ignorable="d" 
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:prism="http://prismlibrary.com/"  >
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.DialogHost.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+
+    <materialDesign:DialogHost DialogClosing="CombinedDialogClosingEventHandler">
+        <Border  Background="White"  CornerRadius="10">
+            <!--<materialDesign:DialogHost.DialogContent>
+         
+        </materialDesign:DialogHost.DialogContent>-->
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Border Width="750" Height="500" Background="White"  CornerRadius="10">
+
+                        <StackPanel Margin="20,80,0,0" Orientation="Vertical">
+                            <StackPanel Margin="30 0 0 0" Width="450">
+                                <TextBlock
+                            FontSize="26"
+                            FontWeight="Bold"
+                            Name="TiteText"
+                            TextAlignment="Center"
+                            Text="提单运抵" 
+                            Margin="-50 0 0 0"/>
+                                <StackPanel Margin="5,20,0,0" Orientation="Horizontal">
+                                </StackPanel>
+
+                                <StackPanel  Orientation="Horizontal">
+                                </StackPanel>
+
+                                <StackPanel Margin="5,20,0,0" Orientation="Horizontal">
+                                </StackPanel>
+
+                                <ComboBox FontSize="15" Name="BillComBox" Width="450" Height="30" ItemsSource="{Binding SelGroupList}"
+                                    SelectedValuePath="Key" DisplayMemberPath="Value" 
+                                          materialDesign:HintAssist.Hint="提单号"
+                                     SelectedValue="{Binding Group,UpdateSourceTrigger=PropertyChanged}"
+                                     Margin="0 0 0 0">
+
+                                    <i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="SelectionChanged">
+                                            <i:InvokeCommandAction Command="{Binding Path=ComboxChangedCommand}" 
+                                           CommandParameter="{Binding ElementName=BillComBox}"/>
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>
+                                </ComboBox>
+
+                                <TextBox  Grid.Row="1"
+                          materialDesign:HintAssist.Hint="实物包装数量" 
+                          FontSize="15" x:Name="ActualTxt"  
+                          Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                          Text="{Binding Actual_num}"/>
+
+                                <TextBox  Grid.Row="1"
+                          materialDesign:HintAssist.Hint="实物重量(kg)" 
+                          FontSize="15" x:Name="WeightTxt"  
+                          Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                          Text="{Binding Actual_weight}"/>
+
+                                <TextBox  Grid.Row="1"
+                          materialDesign:HintAssist.Hint="运抵车牌" 
+                          FontSize="15" x:Name="PlateTxt"  
+                          Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                          Text="{Binding Plate_no}"/>
+
+
+                                <StackPanel Orientation="Horizontal" Margin="0 25 0 0">
+                                    <!--<TextBlock FontSize="15"  Foreground="#FF6C6C6E" Text="到场时间:"></TextBlock>-->
+
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBox Text="{Binding Date}" materialDesign:HintAssist.Hint="运抵时间"  Width="200" FontSize="15"/>
+                                        <Button
+                                        Margin="10 0 0 0"
+                                        Content="选择"
+                                        Command="{x:Static materialDesign:DialogHost.OpenDialogCommand}" Height="25"
+                                       
+                                        >
+                                            <Button.CommandParameter>
+                                                <Grid Margin="-1">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="*"/>
+                                                        <RowDefinition Height="Auto"/>
+                                                    </Grid.RowDefinitions>
+
+                                                    <StackPanel
+                                                        Grid.Row="0"
+                                                        Orientation="Horizontal">
+                                                        <Calendar
+                                                                Language="zh-CN"
+                                                                x:Name="CombinedCalendar"
+                                                                Margin="-1 -4 -1 0"/>
+                                                        <materialDesign:Clock
+                                                            x:Name="CombinedClock"
+                                                            DisplayAutomation="CycleWithSeconds"
+                                                            Is24Hours="True"/>
+                                                    </StackPanel>
+
+                                                    <StackPanel
+                                                                 Grid.Row="1"
+                                                                 Margin="8"
+                                                                 Orientation="Horizontal">
+                                                        <Button
+                                                                 Style="{DynamicResource MaterialDesignFlatButton}"
+                                                                 Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                                                                 CommandParameter="0"
+                                                                 Content="CANCEL"/>
+
+                                                        <Button
+                                                                 Style="{DynamicResource MaterialDesignFlatButton}"
+                                                                 Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                                                                 CommandParameter="1"
+                                                                 Content="OK"/>
+                                                    </StackPanel>
+                                                </Grid>
+                                            </Button.CommandParameter>
+                                        </Button>
+                                    </StackPanel>
+                                </StackPanel>
+
+
+                                <TextBlock Text="{Binding ErrorMsg}" Margin="0 15 0 0"  Foreground="#B22222"  HorizontalAlignment="Left"></TextBlock>
+                                <Button Content="提交" IsEnabled="{Binding IsCancel}" Command="{Binding AddWMS_bill_arrive_history}"  HorizontalAlignment="Center"  Margin="15"  Width="90" Height="30" />
+
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+            </Grid>
+        </Border>
+    </materialDesign:DialogHost>
+
+</UserControl>

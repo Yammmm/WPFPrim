@@ -1,0 +1,44 @@
+2021-04-08 12:38:57.1527 System.InvalidCastException: Unable to convert the value of Type 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillOfLadingDetailsDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' to 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillInOutDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' for the key 'BillInOutDto' 
+   at Prism.Common.ParametersExtensions.GetValue(IEnumerable`1 parameters, String key, Type type)
+   at Prism.Common.ParametersExtensions.GetValue[T](IEnumerable`1 parameters, String key)
+   at Prism.Common.ParametersBase.GetValue[T](String key)
+   at WmsPrism.ViewModels.StoreBillIofLading.BillofLadingDetailsViewModel.OnDialogOpened(IDialogParameters parameters) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\BillofLadingDetailsViewModel.cs:line 56
+   at Prism.Services.Dialogs.DialogService.<>c__DisplayClass9_0.<ConfigureDialogWindowContent>b__0(IDialogAware d)
+   at Prism.Common.MvvmHelpers.ViewAndViewModelAction[T](Object view, Action`1 action)
+   at Prism.Services.Dialogs.DialogService.ConfigureDialogWindowContent(String dialogName, IDialogWindow window, IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.ShowDialogInternal(String name, IDialogParameters parameters, Action`1 callback, Boolean isModal, String windowName)
+   at Prism.Services.Dialogs.DialogService.ShowDialog(String name, IDialogParameters parameters, Action`1 callback)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 212
+2021-04-08 12:40:17.3146 System.InvalidCastException: Unable to convert the value of Type 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillOfLadingDetailsDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' to 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillInOutDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' for the key 'BillInOutDto' 
+   at Prism.Common.ParametersExtensions.GetValue(IEnumerable`1 parameters, String key, Type type)
+   at Prism.Common.ParametersExtensions.GetValue[T](IEnumerable`1 parameters, String key)
+   at Prism.Common.ParametersBase.GetValue[T](String key)
+   at WmsPrism.ViewModels.StoreBillIofLading.BillofLadingDetailsViewModel.OnDialogOpened(IDialogParameters parameters) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\BillofLadingDetailsViewModel.cs:line 56
+   at Prism.Services.Dialogs.DialogService.<>c__DisplayClass9_0.<ConfigureDialogWindowContent>b__0(IDialogAware d)
+   at Prism.Common.MvvmHelpers.ViewAndViewModelAction[T](Object view, Action`1 action)
+   at Prism.Services.Dialogs.DialogService.ConfigureDialogWindowContent(String dialogName, IDialogWindow window, IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.ShowDialogInternal(String name, IDialogParameters parameters, Action`1 callback, Boolean isModal, String windowName)
+   at Prism.Services.Dialogs.DialogService.ShowDialog(String name, IDialogParameters parameters, Action`1 callback)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\StoreBillIofLading\StoreBillIofLadingListViewModel.cs:line 212
+2021-04-08 12:41:47.3717 System.InvalidCastException: Unable to convert the value of Type 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillOfLadingDetailsDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' to 'WmsPrism.Model.Dto.BillInOutDto' for the key 'BillInOutDto' 
+   at Prism.Common.ParametersExtensions.GetValue(IEnumerable`1 parameters, String key, Type type)
+   at Prism.Common.ParametersExtensions.GetValue[T](IEnumerable`1 parameters, String key)
+   at Prism.Common.ParametersBase.GetValue[T](String key)
+   at WmsPrism.ViewModels.StoreBillIofLading.BillofLadingDetailsViewModel.OnDialogOpened(IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.<>c__DisplayClass9_0.<ConfigureDialogWindowContent>b__0(IDialogAware d)
+   at Prism.Common.MvvmHelpers.ViewAndViewModelAction[T](Object view, Action`1 action)
+   at Prism.Services.Dialogs.DialogService.ConfigureDialogWindowContent(String dialogName, IDialogWindow window, IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.ShowDialogInternal(String name, IDialogParameters parameters, Action`1 callback, Boolean isModal, String windowName)
+   at Prism.Services.Dialogs.DialogService.ShowDialog(String name, IDialogParameters parameters, Action`1 callback)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView)
+2021-04-08 12:42:53.3540 System.InvalidCastException: Unable to convert the value of Type 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillOfLadingDetailsDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' to 'System.Collections.Generic.List`1[[WmsPrism.Model.Dto.BillInOutDto, WmsPrism.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' for the key 'BillInOutDto' 
+   at Prism.Common.ParametersExtensions.GetValue(IEnumerable`1 parameters, String key, Type type)
+   at Prism.Common.ParametersExtensions.GetValue[T](IEnumerable`1 parameters, String key)
+   at Prism.Common.ParametersBase.GetValue[T](String key)
+   at WmsPrism.ViewModels.StoreBillIofLading.BillofLadingDetailsViewModel.OnDialogOpened(IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.<>c__DisplayClass9_0.<ConfigureDialogWindowContent>b__0(IDialogAware d)
+   at Prism.Common.MvvmHelpers.ViewAndViewModelAction[T](Object view, Action`1 action)
+   at Prism.Services.Dialogs.DialogService.ConfigureDialogWindowContent(String dialogName, IDialogWindow window, IDialogParameters parameters)
+   at Prism.Services.Dialogs.DialogService.ShowDialogInternal(String name, IDialogParameters parameters, Action`1 callback, Boolean isModal, String windowName)
+   at Prism.Services.Dialogs.DialogService.ShowDialog(String name, IDialogParameters parameters, Action`1 callback)
+   at WmsPrism.ViewModels.StoreBillIofLading.StoreBillIofLadingListViewModel.Details(Object dataRowView)

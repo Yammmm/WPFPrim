@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="UntiyView\CheckBoxBulk.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UntiyView\DataPager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UntiyView\RadioBulk.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillArrive\BillArriveHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillArrive\BillBulkInStored.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillArrive\BillOutPosition.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillCheck\BarCodeDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillCheck\BarCodeSearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillCheck\BillSearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillCheck\WayBillSearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BingCargo\BingWayBillNo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BingCargo\BingWeight.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BuildBarCode\BuildLabelBarCode.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Login\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Print\PrintConsignment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StoreBillIofLading\BillofLadingDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StoreBillIofLading\StoreBillIofLadingList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="UntiyView\CheckBoxBulk.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UntiyView\DataPager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UntiyView\RadioBulk.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillArrive\BillArriveHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillArrive\BillBulkInStored.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillArrive\BillOutPosition.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillCheck\BarCodeDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillCheck\BarCodeSearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillCheck\BillSearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillCheck\WayBillSearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BingCargo\BingWayBillNo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BingCargo\BingWeight.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BuildBarCode\BuildLabelBarCode.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Login\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Print\PrintConsignment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StoreBillIofLading\BillofLadingDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StoreBillIofLading\StoreBillIofLadingList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

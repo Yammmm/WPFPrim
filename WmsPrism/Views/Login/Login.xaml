@@ -1,0 +1,66 @@
+﻿<Window x:Class="WmsPrism.Views.Login.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WmsPrism.Views.Login"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        xmlns:prism="http://prismlibrary.com/"  
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800"  WindowStyle="None"  WindowStartupLocation="CenterScreen" Icon="/Image/Logiico.ico" AllowsTransparency="True" ResizeMode="NoResize" Background="Transparent"
+        MouseMove="window_MouseMove">
+    <Window.Resources>
+        <!--<ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.LightBlue.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>-->
+    </Window.Resources>
+    <Grid Width="400" Height="300"><!--<ContentControl prism:RegionManager.RegionName="ContentRegion" />-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Image/loginbackground.jpg"/>
+        </Grid.Background>
+        <Button Width="50" Height="30" HorizontalAlignment="Right" Command="{Binding ExitCommand}" Style="{StaticResource MaterialDesignFlatButton}">
+            <materialDesign:PackIcon Width="20" Height="20" Kind="Close" Foreground="Black" />
+        </Button>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <TextBlock TextAlignment="Center" VerticalAlignment="Center" FontSize="30" Text="新禾供应链"></TextBlock>
+            <TextBox Grid.Row="1" materialDesign:HintAssist.Hint="用户名" Width="195" HorizontalAlignment="Center" Text="{Binding LoginName}" 
+                     Foreground="White" BorderBrush="White" 
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+            <PasswordBox Grid.Row="2" x:Name="password" materialDesign:HintAssist.Hint="密 码"  Foreground="White" BorderBrush="White"   HorizontalAlignment="Center"
+                         Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Width="195"></PasswordBox>
+
+            <TextBlock Grid.Row="3" TextAlignment="Center" VerticalAlignment="Center" FontSize="10" Foreground="#B22222" Text="{Binding LoginMsg}"></TextBlock>
+            
+            <Button Grid.Row="4" Content="登录" IsDefault="true" IsEnabled="{Binding IsCancel}" 
+                    CommandParameter="{Binding ElementName=password}"
+                    VerticalAlignment="Center" HorizontalAlignment="Center" Width="180" Command="{Binding LoginCommand}"
+                    materialDesign:ButtonProgressAssist.Value="-1"
+                    materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+                    materialDesign:ButtonProgressAssist.IsIndeterminate="{Binding DialogIsOpen}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    />
+        </Grid>
+
+    </Grid>
+</Window>
+

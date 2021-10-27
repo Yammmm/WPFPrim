@@ -1,0 +1,2 @@
+2021-04-06 17:33:15.3672 System.NullReferenceException: Object reference not set to an instance of an object.
+   at WmsPrism.Services.BingWeightServices.AddBarCodeWeigh(Int32 billid, String barcode, String weigh, Int32 userId)

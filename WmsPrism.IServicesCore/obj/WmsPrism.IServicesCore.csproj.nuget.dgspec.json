@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.IServicesCore\\WmsPrism.IServicesCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\WmsPrism.ExtensionsCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\WmsPrism.ExtensionsCore.csproj",
+        "projectName": "WmsPrism.Extensions",
+        "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\WmsPrism.ExtensionsCore.csproj",
+        "packagesPath": "C:\\Users\\a4094\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a4094\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj": {
+                "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "SharpZipLib.NETStandard": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.6, )"
+            },
+            "iTextSharp.LGPLv2.Core.Fix": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.IServicesCore\\WmsPrism.IServicesCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.IServicesCore\\WmsPrism.IServicesCore.csproj",
+        "projectName": "WmsPrism.IServices",
+        "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.IServicesCore\\WmsPrism.IServicesCore.csproj",
+        "packagesPath": "C:\\Users\\a4094\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.IServicesCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a4094\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\WmsPrism.ExtensionsCore.csproj": {
+                "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ExtensionsCore\\WmsPrism.ExtensionsCore.csproj"
+              },
+              "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj": {
+                "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj",
+        "projectName": "WmsPrism.Model",
+        "projectPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\WmsPrism.ModelCore.csproj",
+        "packagesPath": "C:\\Users\\a4094\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a4094\\Desktop\\WmsPrism\\WmsPrism.ModelCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a4094\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

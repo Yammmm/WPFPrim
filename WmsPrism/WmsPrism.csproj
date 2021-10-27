@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>WmsPrism</AssemblyName>
+    <ApplicationIcon></ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Utility.Tool.Controls\**" />
+    <EmbeddedResource Remove="Utility.Tool.Controls\**" />
+    <None Remove="Utility.Tool.Controls\**" />
+    <Page Remove="Utility.Tool.Controls\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.NPOI" Version="1.2.3" />
+    <PackageReference Include="FreeSpire.PDF" Version="5.4.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.0.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.10.0" />
+    <PackageReference Include="Prism.DryIoc" Version="8.0.0.1909" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+    <PackageReference Include="System.Speech" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Image/loginbackground.jpg" />
+    <None Remove="Image/Logiico.ico" />
+    <None Remove="Image/background.jpg" />
+    
+    <!--DateTimePicker控件-->
+    <None Remove="/Utility.Tool.Controls/Image/close.png" />
+    <None Remove="/Utility.Tool.Controls/Image/Date.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/date.png" />
+    <None Remove="/Utility.Tool.Controls/Image/date1.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/date2.ico" />
+    <None Remove="/Utility.Tool.Controls/Image/DateTimePicker.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/DateTimePicker1.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/ooopic_1501745970.ico" />
+    <None Remove="/Utility.Tool.Controls/Image/timer.bmp" />
+    <None Remove="/Utility.Tool.Controls/View/DateTimePicker.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image/loginbackground.jpg" />
+    <Resource Include="Image/Logiico.ico" />
+    <Resource Include="Image/background.jpg" />
+    
+    <!--DateTimePicker控件-->
+    <None Remove="/Utility.Tool.Controls/Image/close.png" />
+    <None Remove="/Utility.Tool.Controls/Image/Date.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/date.png" />
+    <None Remove="/Utility.Tool.Controls/Image/date1.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/date2.ico" />
+    <None Remove="/Utility.Tool.Controls/Image/DateTimePicker.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/DateTimePicker1.bmp" />
+    <None Remove="/Utility.Tool.Controls/Image/ooopic_1501745970.ico" />
+    <None Remove="/Utility.Tool.Controls/Image/timer.bmp" />
+    <None Remove="/Utility.Tool.Controls/View/DateTimePicker.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WmsPrism.ExtensionsCore\WmsPrism.ExtensionsCore.csproj" />
+    <ProjectReference Include="..\WmsPrism.IServicesCore\WmsPrism.IServicesCore.csproj" />
+    <ProjectReference Include="..\WmsPrism.ServicesCore\WmsPrism.ServicesCore.csproj" />
+  </ItemGroup>
+
+
+  
+  <ItemGroup>
+    <None Update="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Nlog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  
+</Project>

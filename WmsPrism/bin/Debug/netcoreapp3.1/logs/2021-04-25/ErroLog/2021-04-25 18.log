@@ -1,0 +1,15 @@
+2021-04-25 18:02:56.1099 System.UnauthorizedAccessException: Access to the path 'D:\202104' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at WmsPrism.Extensions.ExcelHelper.ExportDtToExcel(DataTable dtSource, String strHeaderText, String strFileName) in C:\Users\a4094\Desktop\WmsPrism\WmsPrism.ExtensionsCore\ExcelHelper.cs:line 430
+   at WmsPrism.ViewModels.BillCheck.BarCodeDialogViewModel.<>c__DisplayClass85_0.<ExportChecked>b__0() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\BillCheck\BarCodeDialogViewModel.cs:line 245
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at WmsPrism.ViewModels.BillCheck.BarCodeDialogViewModel.ExportChecked() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\BillCheck\BarCodeDialogViewModel.cs:line 242

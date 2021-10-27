@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="WmsPrism.Views.Print.PrintConsignment"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WmsPrism.Views.Print"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:prism="http://prismlibrary.com/"  
+             
+              
+             mc:Ignorable="d" 
+            >
+<!--xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"-->
+    <Grid Background="White" Margin="0 -50 0 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--该页面弃用-->
+        <!--<cefSharp:ChromiumWebBrowser MinHeight="700" Name="Browser" Grid.Row="0" />-->
+        <!--<cefSharp:ChromiumWebBrowser MinHeight="700" Name="Browser" Address="{Binding Address}"  Grid.Row="0" />-->
+    </Grid>
+</UserControl>

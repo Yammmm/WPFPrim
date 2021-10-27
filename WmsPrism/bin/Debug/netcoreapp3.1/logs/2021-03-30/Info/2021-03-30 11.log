@@ -1,0 +1,10 @@
+2021-03-30 11:21:05.0841 System.Data.SqlClient.SqlException (0x80131904): 列名 'Station_id' 无效。
+   at SqlSugar.AdoProvider.GetDataReaderAsync(String sql, SugarParameter[] parameters)
+   at SqlSugar.QueryableProvider`1.GetDataAsync[TResult](KeyValuePair`2 sqlObj)
+   at SqlSugar.QueryableProvider`1._ToListAsync[TResult]()
+   at SqlSugar.QueryableProvider`1.FirstAsync()
+   at SqlSugar.QueryableProvider`1.FirstAsync(Expression`1 expression)
+   at WmsPrism.ViewModels.BillArrive.BillArriveHistoryViewModel.Add() in C:\Users\a4094\Desktop\WmsPrism\WmsPrism\ViewModels\BillArrive\BillArriveHistoryViewModel.cs:line 226
+ClientConnectionId:bab0537d-77c4-4e3c-b6c5-3dac60947712
+Error Number:207,State:1,Class:16
+2021-03-30 11:27:38.7760 BillArriveHistoryService.Instance.AddWms_bill_arrive_history,添加信息时结果为:该提单号：1000，提单已抵达，不能重复添加

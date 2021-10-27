@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WmsPrism.Services</RootNamespace>
+    <AssemblyName>WmsPrism.Services</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WmsPrism.IServicesCore\WmsPrism.IServicesCore.csproj" />
+    <ProjectReference Include="..\WmsPrism.RepositoryCore\WmsPrism.RepositoryCore.csproj" />
+  </ItemGroup>
+
+</Project>

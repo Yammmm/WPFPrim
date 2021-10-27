@@ -1,0 +1,413 @@
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.exe
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.deps.json
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.runtimeconfig.json
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.runtimeconfig.dev.json
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csprojAssemblyReference.cache
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_MarkupCompile.cache
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.g.resources
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.AssemblyInfoInputs.cache
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.AssemblyInfo.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csproj.CoreCompileInputs.cache
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csproj.CopyComplete
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.genruntimeconfig.cache
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.dll.config
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_green.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SqlSugar.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\DmProvider.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Kdbndp.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.IServices.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Model.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Repository.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Services.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.IServices.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Services.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Model.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Repository.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.pdb
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_MarkupCompile.lref
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Login\Login.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Login\Login.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\App.config
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Nlog.config
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\StoreBillIofLadingList.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\StoreBillIofLadingList.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillArriveHistory.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillArriveHistory.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BillSearch.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BillSearch.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\WayBillSearch.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\WayBillSearch.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillBulkInStored.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillBulkInStored.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\RadioBulk.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\RadioBulk.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\BillofLadingDetails.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\BillofLadingDetails.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\DataPager.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\DataPager.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Print\PrintConsignment.g.cs
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Print\PrintConsignment.baml
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\am.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ar.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bg.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bn.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ca.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\cs.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\da.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\de.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\el.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\et.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fa.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fil.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\gu.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\he.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hu.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\id.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\it.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ja.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\kn.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ko.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lt.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lv.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ml.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\mr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ms.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nb.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ro.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ru.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sk.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sv.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sw.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ta.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\te.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\th.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\tr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\uk.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\vi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libEGL.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libGLESv2.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CefSharp.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Ijwhost.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\am.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ar.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bg.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bn.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ca.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\cs.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\da.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\de.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\el.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\et.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fa.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fil.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\gu.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\he.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hu.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\id.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\it.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ja.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\kn.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ko.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lt.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lv.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ml.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\mr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ms.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nb.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ro.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ru.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sk.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sl.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sv.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sw.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ta.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\te.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\th.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\tr.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\uk.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\vi.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libEGL.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libGLESv2.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CefSharp.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Ijwhost.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\CefSharp.Wpf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netcoreapp3.1\CefSharp.Core.Runtime.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netcoreapp3.1\CefSharp.Core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netcoreapp3.1\CefSharp.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netcoreapp3.1\Ijwhost.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CefSharp.BrowserSubprocess.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CefSharp.BrowserSubprocess.exe
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CefSharp.BrowserSubprocess.runtimeconfig.json
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netcoreapp3.1\CefSharp.Core.Runtime.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netcoreapp3.1\CefSharp.Core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netcoreapp3.1\CefSharp.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netcoreapp3.1\Ijwhost.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CefSharp.BrowserSubprocess.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CefSharp.BrowserSubprocess.exe
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CefSharp.BrowserSubprocess.runtimeconfig.json
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cef.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cef_100_percent.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cef_200_percent.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cef_extensions.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\devtools_resources.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\icudtl.dat
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libEGL.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libcef.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cef.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cef_100_percent.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cef_200_percent.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cef_extensions.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\devtools_resources.pak
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\icudtl.dat
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libEGL.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libcef.dll
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\a4094\Desktop\Wms Extends\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_Content.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Nlog.config
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.exe
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\App.config
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.dll.config
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.deps.json
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.runtimeconfig.json
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.runtimeconfig.dev.json
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_green.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SqlSugar.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\DmProvider.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Kdbndp.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win8-arm\native\e_sqlite3.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csprojAssemblyReference.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\DataPager.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\RadioBulk.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillArriveHistory.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillBulkInStored.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BillSearch.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\WayBillSearch.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Login\Login.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Print\PrintConsignment.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\BillofLadingDetails.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\StoreBillIofLadingList.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_MarkupCompile.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_MarkupCompile.lref
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\DataPager.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\RadioBulk.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillArriveHistory.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillBulkInStored.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BillSearch.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\WayBillSearch.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Login\Login.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\Print\PrintConsignment.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\BillofLadingDetails.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\StoreBillIofLading\StoreBillIofLadingList.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.g.resources
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.AssemblyInfoInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.AssemblyInfo.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csproj.CoreCompileInputs.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.csproj.CopyComplete
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism.genruntimeconfig.cache
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BuildBarCode\BuildLabelBarCode.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BuildBarCode\BuildLabelBarCode.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.Fix.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.IServices.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Model.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Repository.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Services.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Extensions.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.IServices.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Services.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Model.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\WmsPrism.Repository.pdb
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\CheckBoxBulk.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\UntiyView\CheckBoxBulk.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BingCargo\BingWayBillNo.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BingCargo\BingWayBillNo.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BingCargo\BingWeight.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BingCargo\BingWeight.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BarCodeSearch.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BarCodeSearch.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillOutPosition.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillArrive\BillOutPosition.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BarCodeDialog.g.cs
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\Views\BillCheck\BarCodeDialog.baml
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Spire.License.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NOTICE.TXT
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\a4094\Desktop\WmsPrism\WmsPrism\obj\Debug\netcoreapp3.1\WmsPrism_Content.g.cs
